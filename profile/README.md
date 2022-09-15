@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![goorea's GitHub stats](https://github-readme-stats.vercel.app/api?username=goorea&show_icons=true)
-
 <!--
 
 **Here are some ideas to get you started:**
